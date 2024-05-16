@@ -2,8 +2,6 @@
 
 > Recorded versions of what-is-word-cli game round
 
-<!-- toc -->
-
 - [Categorized words](#categorized-words)
   * [Fruits words game round](#fruits-words-game-round)
 - [From literature](#from-literature)
@@ -11,7 +9,6 @@
     + [Moxon's master words round](#moxons-master-words-round)
     + [Three and one are one words round](#three-and-one-are-one-words-round)
 
-<!-- tocstop -->
 
 You can play game rounds from [what-is-word-cli](https://github.com/akgondber/what-is-word-cli) without installing npm package but by viewing and solving recorded versions of game rounds.
 
