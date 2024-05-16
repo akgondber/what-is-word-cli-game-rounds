@@ -4,6 +4,17 @@
 
 <!-- toc -->
 
+- [Categorized words](#categorized-words)
+  * [Fruits words game round](#fruits-words-game-round)
+  * [More categorized words game rounds](#more-categorized-words-game-rounds)
+- [From literature](#from-literature)
+  * [Words from Ambrose Bierce works](#words-from-ambrose-bierce-works)
+    + [Moxon's master words round](#moxons-master-words-round)
+    + [Three and one are one words round](#three-and-one-are-one-words-round)
+    + [More rounds from Ambrose Bierce works](#more-rounds-from-ambrose-bierce-works)
+
+<!-- tocstop -->
+
 You can play game rounds from [what-is-word-cli](https://github.com/akgondber/what-is-word-cli) without installing npm package but by viewing and solving recorded versions of game rounds.
 
 ## Categorized words
@@ -47,6 +58,6 @@ You can play game rounds from [what-is-word-cli](https://github.com/akgondber/wh
 [three and one are one answers](media/literature/ambrose-bierce/answers/what-is-word-cli-three-and-one-are-one-answers.mp4)
 </details>
 
-### [More rounds from Ambrose Bierce works](rounds/literature/ambrose-bierce.md)
+#### [More rounds from Ambrose Bierce works](rounds/literature/ambrose-bierce.md)
 
 [what-is-word-cli](https://github.com/akgondber/what-is-word-cli) - CLI game where your task is to unscramble words by given definition
