@@ -2,22 +2,13 @@
 
 > Recorded versions of what-is-word-cli game round
 
-<!-- toc -->
-
-- [Categorized words](#categorized-words)
-  * [Fruits words game round](#fruits-words-game-round)
-- [From literature](#from-literature)
-  * [Words from Ambrose Bierce works](#words-from-ambrose-bierce-works)
-    + [Moxon's master words round](#moxons-master-words-round)
-    + [Three and one are one words round](#three-and-one-are-one-words-round)
-
-<!-- tocstop -->
-
 You can play game rounds from [what-is-word-cli](https://github.com/akgondber/what-is-word-cli) without installing npm package but by viewing and solving recorded versions of game rounds.
 
 ## Categorized words
 
-### Fruits words game round
+### Fruits round
+
+#### Fruits
 
 ![Fruits](media/categorized/what-is-word-cli-fruits-round.gif)
 
@@ -59,3 +50,6 @@ You can play game rounds from [what-is-word-cli](https://github.com/akgondber/wh
 [More rounds from Ambrose Bierce works](rounds/literature/ambrose-bierce.md)
 
 [what-is-word-cli](https://github.com/akgondber/what-is-word-cli) - CLI game where your task is to unscramble words by given definition
+
+
+

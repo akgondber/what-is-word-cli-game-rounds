@@ -16,7 +16,7 @@
 
 ![Sports](../../media/categorized/what-is-word-cli-sports-round.gif)
 
-[Gif](../../media/categorized/what-is-word-cli-sports-round.gif) | [Video](../../media/categorized/what-is-word-cli-sports-round.mp4)
+[Imgur post](https://imgur.com/a/gmnBQ8M) | [Gif](../../media/categorized/what-is-word-cli-sports-round.gif) | [Video](../../media/categorized/what-is-word-cli-sports-round.mp4)
 
 <details>
   <summary><strong>Check answers</strong></summary>
